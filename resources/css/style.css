@@ -16,3 +16,10 @@ header {
     font-size: 16px;
     text-decoration: underline;
 }
+
+video {
+    background-color: black;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+}
